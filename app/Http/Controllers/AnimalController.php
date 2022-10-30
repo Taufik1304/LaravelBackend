@@ -33,7 +33,7 @@ class AnimalController extends Controller
 
     #Ini Task Pertemuan 4
 
-    public $globalArr = ['Sapi', 'Kambing', 'Kuda'];
+    public $globalArr = ['Ular', 'Burung', 'Cacing'];
 
     public function index()
     {
